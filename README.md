@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/erngallegos/Algorithms-Practice](https://github.com/erngallegos/Active-Directory-Lab/tree/main)
+  - [Active Directory Home Lab](https://github.com/erngallegos/Active-Directory-Lab)
   - [HELLO WORLD!](https://github.com/erngallegos/Algorithms-Practice)
 
 <h2>📺 Certifications</h2>
