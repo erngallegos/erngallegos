@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/erngallegos/Active-Directory-Lab)
-  - [HELLO WORLD!](https://github.com/erngallegos/Algorithms-Practice)
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/erngallegos/Algorithms-Practice)
 
 <h2>📺 Certifications</h2>
 
